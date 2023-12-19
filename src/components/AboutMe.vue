@@ -2,7 +2,7 @@
     <section :style="sectionStyle" id="two">
         <div class= "container about-me">
             <p>
-                Vítam vás na mojej stránke! Som Viktor Lipták, a programovanie je mojou vášňou, ktorej som sa začal venovať pomerne nedávno. Mojou hlavnou oblasťou záujmu sú webové stránky, no moje portfólio sa neustále rozširuje o nové zručnosti.
+                Vítam vás na mojej stránke!!!!!!! Som Viktor Lipták, a programovanie je mojou vášňou, ktorej som sa začal venovať pomerne nedávno. Mojou hlavnou oblasťou záujmu sú webové stránky, no moje portfólio sa neustále rozširuje o nové zručnosti.
             </p>
             <p>
                 Na začiatku mojej cesty som objavil svet HTML a CSS, a postupne som pridával do svojho arzenálu aj SCSS a JavaScript. S pribúdajúcimi skúsenosťami som sa dostal k PHP a princípom objektovo orientovaného programovania. Nedávno som začal pracovať aj s JavaScriptovým frameworkom VUE, cez ktorý je vytvorená aj táto stránka.
